@@ -6,11 +6,17 @@ public class FormDTO {
 
 	@NotEmpty
 	private String messageFromUser;
-
+/**
+ * return the message from user
+ * @return
+ */
 	public String getMessageFromUser() {
 		return messageFromUser;
 	}
-
+/**
+ * set the message
+ * @param messageFromUser
+ */
 	public void setMessageFromUser(String messageFromUser) {
 		this.messageFromUser = messageFromUser;
 	}
