@@ -139,5 +139,12 @@
             <version>${spring.version}</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.spotify/docker-maven-plugin -->
+		<dependency>
+		    <groupId>com.spotify</groupId>
+		    <artifactId>docker-maven-plugin</artifactId>
+		    <version>1.2.0</version>
+		</dependency>
+        
 	</dependencies>
 </project>
