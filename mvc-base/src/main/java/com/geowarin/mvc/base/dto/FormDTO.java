@@ -8,6 +8,7 @@ public class FormDTO {
 	private String messageFromUser;
 /**
  * return the message from user
+ * a other comment test for develop branch
  * @return
  */
 	public String getMessageFromUser() {
