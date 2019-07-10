@@ -3,7 +3,9 @@ package com.geowarin.mvc.base.dto;
 import org.hibernate.validator.constraints.NotEmpty;
 
 public class FormDTO {
-
+	/**
+	 * test branch master01
+	 */
 	@NotEmpty
 	private String messageFromUser;
 /**
