@@ -2,6 +2,7 @@ package com.geowarin.mvc.base.dto;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
+/* commentaire de pépé */
 public class FormDTO {
 
 	@NotEmpty
