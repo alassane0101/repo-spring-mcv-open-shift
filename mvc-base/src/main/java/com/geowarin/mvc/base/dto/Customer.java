@@ -1,5 +1,10 @@
 package com.geowarin.mvc.base.dto;
 
+/**
+ * Add comment to the entity
+ * it 's mandatory
+ * Comment by alassane
+ */
 public class Customer 
 {
    private String firstname;
