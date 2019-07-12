@@ -13,6 +13,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.geowarin.mvc.base.dto.FormDTO;
 
+/* commentaire de pépé */
 @Controller
 public class HomeController {
 
