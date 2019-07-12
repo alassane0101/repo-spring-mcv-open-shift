@@ -12,6 +12,7 @@ public class FormDTO {
  * a other branch develop1107 from develop
  * return the message from user
  * a other comment test for develop branch
+ * just creating a new one dev1207bis from remote origin/develop
  * @return
  */
 	public String getMessageFromUser() {
